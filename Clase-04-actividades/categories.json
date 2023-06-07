@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Geografía",
+    "description": "Preguntas relacionadas con la ubicación, características y fenómenos geográficos de diferentes regiones del mundo."
+  },
+  {
+    "category": "Tecnología",
+    "description": "Preguntas relacionadas con la innovación, dispositivos, avances tecnológicos y su impacto en la sociedad."
+  },
+  {
+    "category": "Música",
+    "description": "Preguntas relacionadas con géneros musicales, artistas, instrumentos y otros aspectos de la música."
+  },
+  {
+    "category": "Literatura",
+    "description": "Preguntas relacionadas con obras literarias, autores, géneros literarios y otros aspectos de la literatura."
+  },
+  {
+    "category": "Gastronomía",
+    "description": "Preguntas relacionadas con platos típicos, ingredientes, tradiciones culinarias y otros aspectos de la gastronomía."
+  },
+  {
+    "category": "Moda",
+    "description": "Preguntas relacionadas con tendencias, diseñadores, estilos y otros aspectos de la moda y el vestuario."
+  }
+]
