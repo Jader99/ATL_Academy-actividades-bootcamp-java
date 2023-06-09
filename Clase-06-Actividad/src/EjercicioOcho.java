@@ -26,7 +26,7 @@ public class EjercicioOcho {
 
 
         System.out.println("------------------------------------------");
-        pc = (int) Math.floor(Math.random()*(3-1)+1);
+        pc = (int) Math.floor(Math.random()*3;
         if(pc == 1){
             System.out.println("PC Elige piedra");
         } else if (pc == 2){
